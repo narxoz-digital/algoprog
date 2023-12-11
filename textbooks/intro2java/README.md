@@ -7,7 +7,7 @@
 03. [Selections](./ch03.md)
 04. [Mathematical Functions, Characters, and *Strings*](./ch04.md)
 05. [Loops](./ch05.md)
-06. [Methods](./ch06.md) && [Recursion)](./ch18.md)   
-07. Single-Dimensional Arrays
-08. Multidimensional Arrays
-10. Objects and Classes
+06. [Methods](./ch06.md) && [Recursion](./ch18.md)   
+07. [Single-Dimensional Arrays](./ch07.md)
+08. [Multidimensional Arrays](./ch07.md)
+09. [Objects and Classes](./ch09.md)
