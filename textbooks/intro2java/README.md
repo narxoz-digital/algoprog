@@ -1,8 +1,6 @@
 # Summary
 
-INTRODUCTION TO JAVA PROGRAMMING
-COMPREHENSIVE VERSION Tenth Edition
-by Y. Daniel Liang
+### Introduction to Java Programmiung, 10th Edition, by Y. Daniel Liang
 
 01. [Introduction to Computers, Programs, and Java](./ch01.md)
 02. [Elementary Programming](./ch02.md)
