@@ -6,8 +6,8 @@
 02. [Elementary Programming](./ch02.md)
 03. [Selections](./ch03.md)
 04. Mathematical Functions, Characters, and *Strings*
-05. Loops
-06. Methods
+05. [Loops](./ch05.md)
+06. [Methods](./ch06.md)
 07. Single-Dimensional Arrays
 08. Multidimensional Arrays
 09. Objects and Classes
